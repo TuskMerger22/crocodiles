@@ -12,7 +12,7 @@
 body {
     background: #f7f7f7;
     color: #333333;
-    font-family: warnock-pro-display, serif;
+    font-family: 'Noto Serif Toto', serif;
 }
 
 section, header {
@@ -124,7 +124,7 @@ header p {
 }
 
 .dropcap {
-    font-family: warnock-pro-display, serif;
+    font-family: 'Noto Serif Toto', serif;
     float: left;
     font-size: 6rem;
     padding-right: .05em;
@@ -133,7 +133,7 @@ header p {
     color: #1A2833;
 }
 
-p {font-family: mr-eaves-sans, sans-serif;}
+p {font-family: 'Noto Sans', sans-serif;}
 
 /*-- Styling Links --*/
 a {
@@ -143,7 +143,7 @@ a {
 }
 
 a:hover {
-    color: rgb(115, 133, 0);
+    color: rgb(255, 187, 127);
     border-bottom: 1px dotted;
 }
 
