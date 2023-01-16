@@ -30,13 +30,11 @@ section {
 }
 
 .market {
-    /*background: #D8C385;*/
     background: #C8D2D4;
     padding: 3em 0;
 }
 
 .street {
-    /*background: #87460D;*/
     background: #1A2833;
     padding: 3em 0;
 }
@@ -53,7 +51,6 @@ section {
 /*-- Styling Typography --*/
 
 h1, h2, blockquote {
-    /*color: #87460D;*/
     color: #1A2833;
 }
 
@@ -123,21 +120,10 @@ header p {
     text-transform: uppercase
 }
 
-.dropcap {
-    font-family: 'Noto Serif Toto', serif;
-    float: left;
-    font-size: 6rem;
-    padding-right: .05em;
-    line-height: .5;
-    /*color: #87460D;*/
-    color: #1A2833;
-}
-
 p {font-family: 'Noto Sans', sans-serif;}
 
 /*-- Styling Links --*/
 a {
-    /*color: #87460D;*/
     color: #1A2833;
     text-decoration: none
 }
@@ -155,7 +141,6 @@ nav {
     left: 0;
     margin: 0;
     width: 100%;
-    /*background: #87460D;*/
     background: #1A2833;;
     padding: 2em 0;
     font-size: 0.75rem;
@@ -185,9 +170,7 @@ nav a:hover {
 hr {
     margin: 100px 0;
     height: 1px;
-    /*background-color: #87460D;*/
     background-color: #1A2833;
-    /*color: #87460D;*/
     color: #1A2833;
     border: 0 none;
 }
